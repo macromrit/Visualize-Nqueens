@@ -77,7 +77,7 @@ with container:
 """, unsafe_allow_html=True)
 
         st.markdown("""##### Hey its Amrit Subramanian.C
-##### Do check out my <a href='https://github.com//macromrit'>github</a> and <a href='https://www.linkedin.com/in/macromrit/'>linked-in</a>""", unsafe_allow_html=True)
+##### Do check out my <a href='https://github.com//macromrit'>github</a> and <a href='https://www.linkedin.com/in/macromrit/'>linked-in</a> accounts""", unsafe_allow_html=True)
         
         st.write("""
 <br>
