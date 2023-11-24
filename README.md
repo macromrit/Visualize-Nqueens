@@ -1,13 +1,13 @@
 # N-Queens Problem Solver
 
 The N-Queens problem solver is a Python-based application that uses backtracking and recursion to find solutions for placing queens on a chessboard. The interactive user interface is built with the Streamlit framework, allowing users to visualize and understand the solutions for different board sizes.
-<br><br>
+<br>
 
 ## Tech Stack
 
 - **Python:** Programming language for the core implementation.
 - **Streamlit:** Web app framework for creating an interactive documentation and user interface.
-<br><br>
+<br>
 
 ## Installation
 
@@ -19,7 +19,7 @@ git clone https://github.com/macromrit/Visualize-Nqueens
 cd Visualize-Nqueens
 streamlit run app.py
 ```
-
+<br>
 ## Usage
 
 1. **Slider for Number of Queens:**
