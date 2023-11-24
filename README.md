@@ -15,7 +15,28 @@ To run the app locally, follow these steps:
 
 ```bash
 pip install streamlit
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/macromrit/Visualize-Nqueens
+cd Visualize-Nqueens
 streamlit run app.py
 ```
+
+## Usage
+
+1. **Slider for Number of Queens:**
+   - Use the slider to select the number of queens (N) you want to place on the chessboard.
+
+2. **Display Solutions:**
+   - Visualize the placement of queens on the chessboard for each solution.
+   - Solutions are generated using a combination of backtracking and recursion.
+
+3. **Additional Information:**
+   - Time and space complexity information is displayed for each solution.
+   - Algorithmic explanation is provided for better understanding.
+   - Description on Domain, Environment and Constraints(Bounding Function) of this problem
+  
+## Applications Usage Demo
+
+1. **Start of with adjusting the slider to number of queens needed**
+2. **Get access to python snippet which solves nqueens and other info like Space Complexity, Time complexity and more...**
+3. **Scroll thorugh the solutions and steps involved in solving it to get a good grasp of this problem**
+
