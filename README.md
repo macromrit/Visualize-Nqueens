@@ -17,7 +17,7 @@ git clone https://github.com/macromrit/Visualize-Nqueens
 cd Visualize-Nqueens
 streamlit run app.py
 ```
-<br><br>
+<br>
 ## Usage
 
 1. **Slider for Number of Queens:**
@@ -31,8 +31,8 @@ streamlit run app.py
    - Time and space complexity information is displayed for each solution.
    - Algorithmic explanation is provided for better understanding.
    - Description on Domain, Environment and Constraints(Bounding Function) of this problem
-<br><br>
-## Applications Usage Demo
+<br>
+## What to do with the App?
 
 ### **Start of with adjusting the slider to number of queens needed**<br>
    ![](images/slider.png)<br>
@@ -40,7 +40,7 @@ streamlit run app.py
    ![](images/general-info.png)<br>
 ### **Scroll thorugh the solutions and steps involved in solving it to get a good grasp of this problem**<br>
    ![](images/solutions-steps.png)<br>
-<br><br>
+<br>
 ## Get in touch with me, (I'm Macromrit)
 **Contact Information:**
    - Email: amritsubramanian.c@gmail.com
