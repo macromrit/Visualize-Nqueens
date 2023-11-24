@@ -44,6 +44,6 @@ streamlit run app.py
 ## Get in touch with me, (I'm Macromrit)
 **Contact Information:**
    - Email: amritsubramanian.c@gmail.com
-   - LinkedIn: [Amrit Subramanian]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/macromrit)
+   - LinkedIn: [Amrit Subramanian](https://www.linkedin.com/in/macromrit)
    - GitHub: [Macromrit](https://github.com/macromrit)
 
