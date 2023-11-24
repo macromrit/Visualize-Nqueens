@@ -19,7 +19,6 @@ git clone https://github.com/macromrit/Visualize-Nqueens
 cd Visualize-Nqueens
 streamlit run app.py
 ```
-<br>
 
 ## Usage
 
