@@ -35,6 +35,15 @@ streamlit run app.py
 ## Applications Usage Demo
 
 1. **Start of with adjusting the slider to number of queens needed**
-2. **Get access to python snippet which solves nqueens and other info like Space Complexity, Time complexity and more...**
-3. **Scroll thorugh the solutions and steps involved in solving it to get a good grasp of this problem**
+   ![](images/slider.png)
+3. **Get access to python snippet which solves nqueens and other info like Space Complexity, Time complexity and more...**
+   ![](images/general-info.png)
+5. **Scroll thorugh the solutions and steps involved in solving it to get a good grasp of this problem**
+   ![](images/solutions-steps.png)
+
+## Get in touch with me, (I'm Macromrit)
+**Contact Information:**
+   - Email: amritsubramanian.c@gmail.com
+   - LinkedIn: [Amrit Subramanian]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/macromrit/))
+   - GitHub: [Macromrit](https://github.com/macromrit)
 
