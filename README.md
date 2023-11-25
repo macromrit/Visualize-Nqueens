@@ -38,13 +38,13 @@ streamlit run app.py
 ## What to do with the App?
 
 ### **Start of with adjusting the slider to number of queens needed**<br>
-   ![](images/slider.png)
+![](images/slider.png)
    <br>
 ### **Get access to python snippet which solves nqueens and other info like Space Complexity, Time complexity and more...**<br>
-   ![](images/general-info.png)
+![](images/general-info.png)
    <br>
 ### **Scroll thorugh the solutions and steps involved in solving it to get a good grasp of this problem**<br>
-   ![](images/solutions-steps.png)
+![](images/solutions-steps.png)
    <br>
 <br>
 
