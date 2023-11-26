@@ -34,11 +34,13 @@ streamlit run app.py
 
 ## What to do with the App?
 ### Start of with adjusting the slider to number of queens needed 
-![](./slider.png)
+<img width="837" alt="slider" src="https://github.com/macromrit/Visualize-Nqueens/assets/77322873/7c08831f-db6b-4a8d-839b-00fac900e510">
+
 ### Get access to python snippet which solves nqueens and other info like Space Complexity, Time complexity and more...
-![](./general-info.png)
+<img width="821" alt="general-info" src="https://github.com/macromrit/Visualize-Nqueens/assets/77322873/5659c3c0-9b71-4057-a668-5a930092ec81">
+
 ### Scroll thorugh the solutions and steps involved in solving it to get a good grasp of this problem
-![](./solutions-steps.png)
+<img width="722" alt="solutions-steps" src="https://github.com/macromrit/Visualize-Nqueens/assets/77322873/3216156e-6b94-453d-ab7c-9cd60f0bc93c">
 
 ## Get in touch with me, (I'm Macromrit)
 **Contact Information:**
